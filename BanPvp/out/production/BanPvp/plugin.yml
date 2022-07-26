@@ -1,0 +1,7 @@
+name: BanPvp
+main: BoatMC.Main
+api:
+  - 1.0.0
+version: 2
+load: POSTWORLD
+autehor: BoatMC
